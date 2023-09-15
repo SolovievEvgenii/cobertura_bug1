@@ -1,0 +1,6 @@
+.phpunit.cache
+.vscode/launch.json
+build/coverage
+cobertura.xml
+vendor
+1.php

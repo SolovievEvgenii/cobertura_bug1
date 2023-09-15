@@ -1,0 +1,1 @@
+# cobertura_bug1

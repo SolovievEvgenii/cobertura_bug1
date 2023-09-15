@@ -1,0 +1,21 @@
+{
+    "name": "soloevgen/testcover",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Soloevgen\\Testcover\\": "src/"
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Soloviev Evgenii",
+            "email": "SolovievEvgenii@1.com"
+        }
+    ]
+}
